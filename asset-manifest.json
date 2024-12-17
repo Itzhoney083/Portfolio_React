@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolinpo_React/static/css/main.69855758.css",
+    "main.js": "/Portfolinpo_React/static/js/main.7a4a7881.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolinpo_React/static/js/453.ace21015.chunk.js",
+    "static/media/poliinfo.png": "/Portfolinpo_React/static/media/poliinfo.e8a72b748c8ab7a7855f.png",
+    "static/media/phppro.png": "/Portfolinpo_React/static/media/phppro.e587ae9f6cfc6f340974.png",
+    "static/media/ani.png": "/Portfolinpo_React/static/media/ani.c75dfdef1b170b93bfd8.png",
+    "static/media/HILI.png": "/Portfolinpo_React/static/media/HILI.79105f3aacd45fea79e2.png",
+    "static/media/bg-light.png": "/Portfolinpo_React/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Portfolinpo_React/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/img.jpg": "/Portfolinpo_React/static/media/img.4211fb3e30bf1c2be423.jpg",
+    "index.html": "/Portfolinpo_React/index.html",
+    "main.69855758.css.map": "/Portfolinpo_React/static/css/main.69855758.css.map",
+    "main.7a4a7881.js.map": "/Portfolinpo_React/static/js/main.7a4a7881.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolinpo_React/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69855758.css",
+    "static/js/main.7a4a7881.js"
+  ]
+}
