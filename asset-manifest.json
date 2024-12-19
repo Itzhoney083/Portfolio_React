@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio_React/static/css/main.c5cf6fc1.css",
-    "main.js": "/Portfolio_React/static/js/main.61ce5ec2.js",
+    "main.js": "/Portfolio_React/static/js/main.4ecd0427.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio_React/static/js/453.ace21015.chunk.js",
     "static/media/poliinfo.png": "/Portfolio_React/static/media/poliinfo.e8a72b748c8ab7a7855f.png",
     "static/media/phppro.png": "/Portfolio_React/static/media/phppro.e587ae9f6cfc6f340974.png",
@@ -12,11 +12,11 @@
     "static/media/img.jpg": "/Portfolio_React/static/media/img.4211fb3e30bf1c2be423.jpg",
     "index.html": "/Portfolio_React/index.html",
     "main.c5cf6fc1.css.map": "/Portfolio_React/static/css/main.c5cf6fc1.css.map",
-    "main.61ce5ec2.js.map": "/Portfolio_React/static/js/main.61ce5ec2.js.map",
+    "main.4ecd0427.js.map": "/Portfolio_React/static/js/main.4ecd0427.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio_React/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5cf6fc1.css",
-    "static/js/main.61ce5ec2.js"
+    "static/js/main.4ecd0427.js"
   ]
 }
